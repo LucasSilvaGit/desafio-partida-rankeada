@@ -22,13 +22,8 @@ Se vitórias for entre 91 e 100= Lendário
 Se vitórias for maior ou igual a 101 = Imortal
 
 ## Saída
-
 Ao final deve se exibir uma mensagem:
 "O Herói tem de saldo de **{saldoVitorias}** está no nível de **{nivel}**"
- 
-
-  
-Bons estudos 😉
 
 */
 let nrVitorias = parseInt(process.argv[2]) || 0;

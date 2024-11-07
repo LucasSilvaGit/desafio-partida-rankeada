@@ -1,4 +1,4 @@
-# Desafio DIO partida rankeada
+# Desafio DIO
 
 # Calculadora de partidas Rankeadas
 
